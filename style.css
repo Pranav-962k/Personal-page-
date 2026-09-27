@@ -1,0 +1,28 @@
+.hi{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    background-color: rgb(220, 121, 55);
+    margin-top: 0px;
+    padding-top: 10px;
+    margin:0px;
+}
+.Quote{
+    text-align: center;
+    background-color: rgb(240, 105, 9);
+    margin: 0px;
+    
+    
+    
+}
+.intro {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    width: 20%;
+    height: 10%;
+    text-align: left;
+    
+    background-color: rgb(255, 179, 0);
+    box-sizing: border-box;
+}
