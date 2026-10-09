@@ -3,15 +3,33 @@
     border: 2px solid black;
     border-radius: 5px;
     padding: 20px;
-    width: 35%;
+    width: 60%;
     height: 10%;
-    text-align: center;
-    align-items: center;
     background-color: rgb(255, 179, 0);
     box-sizing: border-box;
-    display: flex;
-
+    margin: 0px;
+    align-self: center;
+    
 }
+
+body {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .who{
-    size: 10%;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 10px;
+    background-color: brown;
+}
+.who img{
+    width: 350px;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+    
 }
