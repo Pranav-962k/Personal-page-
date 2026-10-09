@@ -26,17 +26,3 @@
     align-items: center;
     gap: 20px;
 }
-.intro {
-    display: flex;
-    border: 2px solid black;
-    border-radius: 5px;
-    padding: 20px;
-    width: 35%;
-    height: 10%;
-    text-align: left;
-    align-items: center;
-    background-color: rgb(255, 179, 0);
-    box-sizing: border-box;
-    display: flex;
-
-}
